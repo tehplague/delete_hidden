@@ -18,7 +18,7 @@
         "security": "https://github.com/marketing-factory/delete_hidden/blob/main/SECURITY.md"
     },
     "require": {
-        "typo3/cms-core": "^13.4"
+        "typo3/cms-core": "^13.4 || ^14.3"
     },
     "require-dev": {
         "typo3/testing-framework": "^9.3",
